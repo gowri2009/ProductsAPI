@@ -1,0 +1,16 @@
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\bin\Debug\netcoreapp3.1\ConsumeProductAPI.exe
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\bin\Debug\netcoreapp3.1\ConsumeProductAPI.deps.json
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\bin\Debug\netcoreapp3.1\ConsumeProductAPI.runtimeconfig.json
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\bin\Debug\netcoreapp3.1\ConsumeProductAPI.runtimeconfig.dev.json
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\bin\Debug\netcoreapp3.1\ConsumeProductAPI.dll
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\bin\Debug\netcoreapp3.1\ConsumeProductAPI.pdb
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\obj\Debug\netcoreapp3.1\ConsumeProductAPI.csproj.AssemblyReference.cache
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\obj\Debug\netcoreapp3.1\ConsumeProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\obj\Debug\netcoreapp3.1\ConsumeProductAPI.AssemblyInfoInputs.cache
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\obj\Debug\netcoreapp3.1\ConsumeProductAPI.AssemblyInfo.cs
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\obj\Debug\netcoreapp3.1\ConsumeProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\obj\Debug\netcoreapp3.1\ConsumeProductAPI.csproj.CopyComplete
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\obj\Debug\netcoreapp3.1\ConsumeProductAPI.dll
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\obj\Debug\netcoreapp3.1\ConsumeProductAPI.pdb
+C:\Users\prabh\source\repos\ProductsApi\ConsumeProductAPI\obj\Debug\netcoreapp3.1\ConsumeProductAPI.genruntimeconfig.cache
